@@ -1,8 +1,5 @@
 
 <html>
-<head>
-    <title>Simple HTML</title>
-</head>
 <body>
     <h1>Welcome to Simple HTML</h1>
     <p>Hello</p>
